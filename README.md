@@ -1,0 +1,2 @@
+# pg
+PhoneGap build
